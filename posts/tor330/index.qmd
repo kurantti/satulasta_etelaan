@@ -3,8 +3,8 @@ title: "TOR330"
 description: "Post description"
 author: "Päällysaho, Juha"
 date: "2025-01-09"
-data-modified: "2025-01-09"
-draft: true
+data-modified: "2025-01-13"
+lightbox: true
 ---
 
 # Aloitus
@@ -21,7 +21,63 @@ Oma kokemukseni harjoittelusta on että jos aloittaa järjestelmällisen harjoit
 
 # Kesä
 Kesäharjoittelun aloitin Kööpenhaminan maratonilla, johon minulla oli aikaa valmistautua pari viikkoa.
+Valmistelu jatkui Boros Ultra -kisalla (90km) Göteburgissa, kesä-heinäkuussa teimme juoksuvaelluksen Espanjan pyreneille (x km 4 päivää). Juoksu tuntui täällöä hyvältä ja pitkäkin päivä rullasi ilman suurempia haasteita.
+
+Kesällä tein pari pidempää juoksua töihin (20km suunta), Ruotsissa teimme treeniviikonlopun Kullabergillä ja paikallisessa hiihtokeskuksessa, focus ylä ja alamäkitreenissä. Ja silauksena pitkä travarse-juoksu Söderrosen kansallispuistossa syyskuusssa. 
+
+Tein lopulta aika vähän ylä/alamäkitreeniä ja pyrin kompensoimaan sen punttisalilla tehdyllä juoksuspecifillä harjoituksilla. Uhkapeliä? Ehkä, mutta oma fiilis on että saan salilla simuloitua iskutusta matalammalla kynnyksellä (käytän vähemmän aikaan siirtymiseen ja harjoituksen tekoon).
+
+Tarina kirjoitetaan loppuun syyskuussa. Joka tapauksessa fiilis oli että olin tehnyt parhaani sen hetkisen tietotaidon ja ymmärryksen mukaan, enempää on ei voi itseltään vaatia.
 
 # Kisa
 
+## Ennakko
+Vietimme Sveitissä n. viikon ennen kisaa parissa tuhannessa metrissä kahdessa eri camping-alueella, pieniä päiväretkiä tehden. Kävimme myös n. 3000 metrissä mutta en huomannut suuria eroja hengityksessä. 
+
+![Omat eväät](p/01.jpeg)
+
+Samalla tuli fiilisteltyä Swisspeaks 360 kisaa ja moikattua mm. Juha Jumiskoa X huollossa. Lopulta jäi kysymysmerkiksi oliko alppileiristä hyötyä ennen kisaa, ainakin sillä pääsi vuorifiilikseen.
+
+Italiassa majoituimme Aostan kylään Airbnb-asuntoon kaunpungin keskustaan neljä päivää ennen kisaa. Täällä käytin ajan leväten ja syöden, kisaeväiden ja varusteiden viimeistelyyn.
+
+![Osuuseväät](p/1.jpeg)
+
+Lauantaina vierailin kisakeskuksessa, tapasin muita suomalaisia
+
+![Jukka Kukkosen kanssa selfie](p/2.jpeg)
+
+ ja nappasin 60L? kisaduffelin mukaan, sanosin että todellinen koko on 40L luokkaa. Kisakeskus visiiteissä voi mennä yllättävän paljon aikaa ja vaikka sosialisointi on kivaa niin homma tuo rasitusta. Loppuilta meni kämpällä kisainfoa seuraten ja leväten sängyllä. 
+
+![Vielä hymyilyttää](p/3.jpeg)
+
+![Numerolapun kiinnitystä](p/4.jpeg)
+
 ## Osuus 1
+
+Aamulla siirrymme autolla Courmayeriin autolla ja lähtöporukassa törmäsin vielä Heikki H., vikat selfiet, näin vielä vilauksen Francuanista joka otti lämmittelyaskelia Salomonin kuvaustiimin kanssa.
+
+![Ennen Kisaa](p/5.jpeg)
+
+Tein vielä viimeiset fiilistelyt itsekseni että parhaani olen tehnyt ja hyvä tästä tulee. Sitten lähtölaukaus ja menoksi! Kun tietää harjoittelu olosuhteet.
+
+Suunitelman mukaan aloitin kevyesti, haikkasin jonossa ja en tehnyt mitään hätiköityä liikkeitä, puurajaan päästyä laitoin takkia päälle tuulen ja tihkun vuoksi. Ensimmäinen satula (Col Arp) tuli hieman yllättäen vastaan pilviverhon takaa. Alamäessä liukastuminen mudassa (oli todella liukasta), mutta ei vammoja. 
+
+La tuilen huolto tuli ja meni, otin keittoa ja leipää, huollossa viihdyin vain pienen hetken, ja yritin lähteä liikkeelle ennenkuin tuli kylmä. Heikki H. kuulin lähtöpaikalta että kisan vaikempia asioita on exitin löytö huoltopaikolta. Heti kisan alussa ryhdyin noudattamaan taktiikkaa jossa yritin syödä normaalia ei makeaa energiaa huoltopisteillä ja omista eväistä makeat. Tämä osottaisi hyväksi tavaksi, kisan aikana totesin myös että olen syönyt liian vähän kaikilla ultramatkoillani, yksi tapa miten huomasin tämän oli että mielialani pysyi positiivisena koko kisan ajan, vaikka vastaan tuli haasteita.
+
+Crosatien Col oli  avonainen ja jännittävä, osuuden laatukohtia, alaämäessä vastassa oli menehtyneen kiinalaisen toteemi, pysähdyin hetkeksi. 
+
+Ikävästä tapahtumasta huolimatta maisemat oli vaikututtavat ja lähdin laskemaan kohti Val
+
+näin heikkiä ja söin ehkä liikaakin lihapataa sillä toisella osuudella olo oli huono. lähdin hyvällä fiiliksellä toiselle osuudelle, raskas sadetakki päälle ja menoksi.Huollossa huomasin että porukalla oli jo vuoristoyskää, Japanilaiset menijät asettuivat makuulle jo tässä vaiheessa, mietin itse että tässä vasta käynnistellään reissua.
+
+## Osuus 2
+- jatkoin samaa tyyliä mitä ensimmäisellä osuudella, pysyttelin porukoiden takana jos sellaisia oli
+- kosteahko sää, pitkiä nousuja mutta laskut ei ollut lopulta niin mahdottomia, tai ehkä mulla ei ole mitään mielikuvaa niistä
+- kolmannessa noussussa isohätä alkoi taas ilmoittelemaan, jouduin jonkin aikaa etsimään isompaa kiveä ja huomasin että takapuoli tarvitsee sitä suihkua seuraavassa huoltopisteessä
+
+## Osuus 3
+
+# Opit
+
+- Jos on ostettavaa, aloita ostokse 4-6kk ennen kisaa
+- Lähemmäksi kisakeskusta, 
